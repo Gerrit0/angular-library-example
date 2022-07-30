@@ -1,0 +1,15 @@
+{
+  "$schema": "https://typedoc.org/schema.json",
+  "name": "Angular API",
+  "entryPoints": [
+    "projects/mycomp/ui-sdk/public-api.ts",
+    "projects/mycomp/ui-sdk/button/public-api.ts",
+    "projects/mycomp/ui-sdk/i18n/public-api.ts",
+    "projects/mycomp/ui-sdk copy/public-api.ts",
+    "projects/mycomp/ui-sdk copy/button/public-api.ts",
+    "projects/mycomp/ui-sdk copy/i18n/public-api.ts"
+  ],
+  "compilerOptions": {
+    "skipLibCheck": true
+  }
+}

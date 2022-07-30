@@ -1,5 +1,5 @@
 /**
- * @module ui-sdk
+ * @module ui-sdk copy
  */
 export * from './src/ui-sdk.service';
 export * from './src/ui-sdk.component';
